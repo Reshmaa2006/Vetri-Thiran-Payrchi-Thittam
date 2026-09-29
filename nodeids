@@ -1,0 +1,7 @@
+[
+  "tests/test_app.py::test_feedback",
+  "tests/test_app.py::test_generate",
+  "tests/test_app.py::test_health",
+  "tests/test_app.py::test_home",
+  "tests/test_app.py::test_tip"
+]
